@@ -1,0 +1,7 @@
+2021-12-06 08:46:00.958 +02:00 [INF] Now listening on: http://localhost:5152
+2021-12-06 08:46:01.443 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-12-06 08:46:01.444 +02:00 [INF] Hosting environment: Development
+2021-12-06 08:46:01.445 +02:00 [INF] Content root path: D:\VS2019\WebAPI_Docker\
+2021-12-06 08:46:05.654 +02:00 [INF] HTTP GET /swagger/index.html responded 200 in 1264.9027 ms
+2021-12-06 08:46:09.339 +02:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 61.9826 ms
+2021-12-06 09:00:11.644 +02:00 [INF] HTTP GET /WeatherForecast responded 200 in 18.9237 ms
