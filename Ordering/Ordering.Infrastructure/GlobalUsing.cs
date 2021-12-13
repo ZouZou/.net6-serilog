@@ -1,0 +1,15 @@
+﻿global using MediatR;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.EntityFrameworkCore;
+global using Ordering.AggregratesModel.OrderAggregate;
+global using Ordering.Infrastructure;
+global using Ordering.Infrastructure.EntityConfigurations;
+global using Ordering.SeedWork;
+global using Ordering.Exceptions;
+global using System.Data;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using System.Threading;
+global using System;

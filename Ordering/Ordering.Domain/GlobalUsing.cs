@@ -1,0 +1,11 @@
+﻿global using Ordering.SeedWork;
+global using Ordering.AggregratesModel.OrderAggregate;
+global using Ordering.Exceptions;
+global using Ordering.Events;
+global using MediatR;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Reflection;
+global using System.Threading.Tasks;
+global using System.Threading;
+global using System;
